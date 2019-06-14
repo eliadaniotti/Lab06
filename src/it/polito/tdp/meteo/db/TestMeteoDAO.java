@@ -20,8 +20,8 @@ public class TestMeteoDAO {
 //		System.out.println(dao.getAllRilevamentiLocalitaMese(1, "Genova"));
 //		System.out.println(dao.getAvgRilevamentiLocalitaMese(1, "Genova"));
 //		
-//		System.out.println(dao.getAllRilevamentiLocalitaMese(5, "Milano"));
-//		System.out.println(dao.getAvgRilevamentiLocalitaMese(5, "Milano"));
+		System.out.println(dao.getAllRilevamentiLocalitaMese(11, "Milano"));
+		System.out.println(dao.getAvgRilevamentiLocalitaMese(11, "Milano"));
 //		
 //		System.out.println(dao.getAllRilevamentiLocalitaMese(5, "Torino"));
 //		System.out.println(dao.getAvgRilevamentiLocalitaMese(5, "Torino"));
